@@ -56,6 +56,6 @@
 ### 📈 Estatísticas
 
 <div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=DFaltGP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DFaltGP&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DFaltGP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DFaltGP&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
