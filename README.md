@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Backend+Engineer+%7C+Cloud+%26+Distributed+Systems;C%23+%2F+.NET+%E2%80%A2+Rust+%E2%80%A2+TypeScript+%E2%80%A2+RabbitMQ;Escalando+APIs%2C+DevOps+e+descomplicando+regras+fiscais" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Backend+Developer+%7C+Cloud+%26+Distributed+Systems;C%23+%2F+.NET+%E2%80%A2+Rust+%E2%80%A2+TypeScript+%E2%80%A2+RabbitMQ;Escalando+APIs%2C+DevOps+e+descomplicando+regras+fiscais" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  Desenvolvedor focado em <strong>Backend robusto, mensageria e sistemas resilientes</strong>, trilhando a jornada rumo à senioridade e aprofundando o domínio em arquitetura Cloud. Não fujo de regras de negócio espinhosas (do ecossistema fiscal à concorrência de filas), opero qualquer Linux que vier pela frente, garanto a esteira de DevOps e ainda desembolo o front-end com Next.js e Svelte quando o produto precisa.
+  Desenvolvedor focado em <strong>Backend robusto, mensageria e sistemas resilientes</strong>, trilhando a jornada rumo à senioridade e aprofundando o domínio em arquitetura Cloud. Não fujo de regras de negócio complexas (do ecossistema fiscal à concorrência de filas), opero qualquer Linux que vier pela frente, garanto a esteira de DevOps e ainda desembolo o front-end com Next.js e Svelte quando preciso.
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-### ⚙️ Stack & Tecnologias
+### Stack & Tecnologias
 
 <table>
   <tr>
@@ -28,7 +28,7 @@
     <td width="50%">
       <strong>Arquitetura, Dados & DevOps</strong><br/>
       • <strong>Filas & Cache:</strong> RabbitMQ, Redis<br/>
-      • <strong>Bancos:</strong> SQL Server (T-SQL otimizado), PostgreSQL, Supabase<br/>
+      • <strong>Bancos:</strong> SQL Server (T-SQL), PostgreSQL, Supabase<br/>
       • <strong>Infra:</strong> Docker & Swarm, Linux (o que tu quiser rodar, manda vir), GitHub Actions<br/>
       • <strong>Domínio & Inovação:</strong> Ecossistema Fiscal (NF-e, SPED, etc.) & IA Generativa / LLMs
     </td>
@@ -49,13 +49,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DFaltGP/DFaltGP/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/DFaltGP/DFaltGP/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
----
-
-### 📈 Estatísticas
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DFaltGP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DFaltGP&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
